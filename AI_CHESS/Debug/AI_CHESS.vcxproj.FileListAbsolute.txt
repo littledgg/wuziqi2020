@@ -1,0 +1,2 @@
+C:\Users\16585\your_code\c_code\AI_CHESS\Debug\AI_CHESS.exe
+C:\Users\16585\your_code\c_code\AI_CHESS\Debug\AI_CHESS.pdb
